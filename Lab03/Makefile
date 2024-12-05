@@ -18,7 +18,7 @@ $(TARGET): $(OBJECTS)
 	$(CC) $(OBJECTS) -o $(TARGET)
 
 # Compile source files to object files
-%.o: %.c lab.h
+%.o: %.c lab03.h
 	$(CC) $(CFLAGS) -c $< -o $@
 
 # Clean up generated files
