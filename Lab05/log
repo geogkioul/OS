@@ -1,0 +1,48 @@
+/home/gkioulekg/Lab05
+log
+  File: log
+  Size: 26        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 302999      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1217/gkioulekg)   Gid: ( 1219/gkioulekg)
+Access: 2024-12-16 11:29:16.885480205 +0200
+Modify: 2024-12-16 11:28:13.505105111 +0200
+Change: 2024-12-16 11:28:13.505105111 +0200
+ Birth: -
+rm: cannot remove 'file_that_doesnt_exist': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./example2.c
+./example4.c
+./example5.c
+./example3.c
+./example1.c
+./example6.c
+/home/gkioulekg/Lab05
+log
+  File: log
+  Size: 26        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 302999      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1217/gkioulekg)   Gid: ( 1219/gkioulekg)
+Access: 2024-12-16 11:29:16.885480205 +0200
+Modify: 2024-12-16 11:28:13.505105111 +0200
+Change: 2024-12-16 11:28:13.505105111 +0200
+ Birth: -
+rm: cannot remove 'file_that_doesnt_exist': No such file or directory
+rm: cannot remove 'directory_to_delete': No such file or directory
+./example2.c
+./example4.c
+./example5.c
+./example3.c
+./example1.c
+./example6.c
+/home/gkioulekg/Lab05
+log
+  File: log
+  Size: 26        	Blocks: 8          IO Block: 4096   regular file
+Device: 811h/2065d	Inode: 302999      Links: 1
+Access: (0664/-rw-rw-r--)  Uid: ( 1217/gkioulekg)   Gid: ( 1219/gkioulekg)
+Access: 2024-12-16 11:29:16.885480205 +0200
+Modify: 2024-12-16 11:28:13.505105111 +0200
+Change: 2024-12-16 11:28:13.505105111 +0200
+ Birth: -
+fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
